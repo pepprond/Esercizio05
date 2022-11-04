@@ -1,3 +1,3 @@
 public interface ITeachingPerson {
-    void teachToOtherPeople();
+   abstract void teachToOtherPeople();
 }
