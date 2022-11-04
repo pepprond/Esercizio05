@@ -1,3 +1,3 @@
 public interface ILearningPerson {
-     void StudyAtHome();
+    abstract void StudyAtHome();
 }
